@@ -4,11 +4,11 @@
 
 
 /* Dependencies */
+import path from 'node:path';
 import pug from 'pug';
 import Interface from '@sapling/sapling/drivers/render/Interface.js';
 
 import _ from 'underscore';
-import path from 'path';
 
 import SaplingError from '@sapling/sapling/lib/SaplingError.js';
 
@@ -42,7 +42,7 @@ export default class Pug extends Interface {
 		} catch (error) {
 			return new SaplingError(error);
 		}
-		
+
 		return rendered(_.extend(data, this.tags));
 	}
 
