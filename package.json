@@ -22,7 +22,7 @@
   "dependencies": {
     "path": "^0.12.7",
     "pug": "^3.0.2",
-    "underscore": "^1.13.1"
+    "underscore": "^1.13.2"
   },
   "devDependencies": {
     "@babel/core": "^7.16.5",
