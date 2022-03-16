@@ -30,7 +30,7 @@
     "ava": "^4.1.0",
     "c8": "^7.11.0",
     "husky": "^7.0.0",
-    "lint-staged": "^12.3.5",
+    "lint-staged": "^12.3.6",
     "xo": "^0.48.0"
   },
   "peerDependencies": {
