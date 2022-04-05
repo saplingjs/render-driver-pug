@@ -34,7 +34,7 @@
     "xo": "^0.48.0"
   },
   "peerDependencies": {
-    "@sapling/sapling": "^0.1.0"
+    "@sapling/sapling": "^0.2.0"
   },
   "scripts": {
     "precommit": "lint-staged",
