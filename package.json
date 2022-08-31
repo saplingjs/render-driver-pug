@@ -31,7 +31,7 @@
     "c8": "^7.12.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "xo": "^0.51.0"
+    "xo": "^0.52.2"
   },
   "peerDependencies": {
     "@sapling/sapling": "^0.2.0"
