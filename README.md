@@ -1,6 +1,6 @@
 # Pug driver for Sapling
 
-<a href="https://github.com/saplingjs/render-driver-pug/actions"><img src="https://img.shields.io/github/workflow/status/saplingjs/render-driver-pug/CI" alt="GitHub Workflow Status"></a>
+<a href="https://github.com/saplingjs/render-driver-pug/actions"><img src="https://img.shields.io/github/actions/workflow/status/saplingjs/render-driver-pug/test.yml?branch=master" alt="GitHub Workflow Status"></a>
 <a href="https://app.codecov.io/gh/saplingjs/render-driver-pug"><img src="https://img.shields.io/codecov/c/gh/saplingjs/render-driver-pug?token=E3NRW4IJW9" alt="Codecov"></a>
 <a href="https://www.npmjs.com/package/@sapling/render-driver-pug"><img src="https://img.shields.io/npm/v/@sapling/render-driver-pug.svg?sanitize=true" alt="Version"></a>
 <a href="https://github.com/saplingjs/render-driver-pug/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/@sapling/render-driver-pug.svg?sanitize=true" alt="License"></a>
